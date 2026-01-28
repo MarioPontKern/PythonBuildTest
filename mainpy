@@ -1,7 +1,0 @@
-import sys
-
-def python_version -> str:
-  print(sys.version)
-
-if __name__ == "main.py":
-  main()
